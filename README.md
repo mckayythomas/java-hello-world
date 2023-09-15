@@ -4,7 +4,7 @@ This is my first program using the Java language with the intent of learning the
 
 This program consists of one file containing a single class with the sole purpose of printing the line "Hello World!" to the terminal.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Program Demo Video](https://github.com/mckayythomas/java-hello-world)
 
 # Development Environment
 
