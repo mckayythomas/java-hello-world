@@ -6,7 +6,7 @@ This program consists of one file containing a single class with the sole purpos
 
 The purpose of this software is to help me to start learning Java with a simple task of printing "Hello World!" to the terminal.
 
-[Program Demo Video](https://github.com/mckayythomas/java-hello-world)
+[Program Demo Video](https://youtu.be/yGJ8aepIjw8)
 
 # Development Environment
 
